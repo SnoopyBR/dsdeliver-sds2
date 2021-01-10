@@ -12,7 +12,6 @@ function Footer(){
                 </a>
                 <a href="https://www.linkedin.com/school/devsuperior/" target="_new">
                     <LinkedinIcon/>
-
                 </a>
                 <a href="https://www.instagram.com/devsuperior.ig" target="_new">
                     <InstagramIcon/>
