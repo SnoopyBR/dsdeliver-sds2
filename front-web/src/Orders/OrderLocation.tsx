@@ -56,12 +56,6 @@ function OrderLocation({onChangeLocation}:Props) {
          });
     };
 
-
-
-
-
-
-
     return (
         <div className="order-location-container">
             <div className="order-location-content">
